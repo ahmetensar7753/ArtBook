@@ -6,4 +6,6 @@
     </style>
 
     <style name="Theme.ArtBook2" parent="Base.Theme.ArtBook2" />
+
+    <style name="FragmentScenarioEmptyFragmentActivityTheme" />
 </resources>
